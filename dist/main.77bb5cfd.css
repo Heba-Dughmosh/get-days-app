@@ -1,0 +1,20 @@
+body .container {
+  background-color: rgba(108, 188, 212, 0.5);
+  font-family: monospace;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+body .container .input {
+  font-size: 20px;
+  padding: 10px;
+}
+body .container .btn {
+  font-size: 20px;
+  margin: 20px;
+  padding: 20px;
+}
+
+/*# sourceMappingURL=/main.77bb5cfd.css.map */
